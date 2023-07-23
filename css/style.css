@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(203, 200, 225);
+}
+h1{
+  color: grey;
+}
+h3{
+  color: rgb(90, 89, 89);
+}
+hr{
+  /* background-color: skyblue;  */
+  border-style: dotted none none;
+  /* height: 0px; */
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+}
